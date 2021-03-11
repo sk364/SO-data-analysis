@@ -8,7 +8,7 @@
 
 ## Installation<a name="installation"></a>
 
-Python version should be 3.7+. There are no other libraries to install.
+Python version should be 3.7+. There are no other libraries to install. Anaconda distribution should cover it all.
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -27,7 +27,7 @@ There's only one Python notebook covering the answers to the questions raised. T
 
 ## Results<a name="results"></a>
 
-[This blog post]() describes all the findings through the analysis.
+[This blog post](https://sachinkukreja.medium.com/which-language-should-i-learn-first-cde86127941e) describes all the findings through the analysis.
 
 ## Licensing, Authors and Acknowledgements<a name="license"></a>
 
