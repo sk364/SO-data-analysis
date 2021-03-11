@@ -24,6 +24,8 @@ Based on the answer of these questions, I further am motivated to answer a bigge
 ## File Descriptions<a name="desc"></a>
 
 There's only one Python notebook covering the answers to the questions raised. The notebook contains the necessary comments to help understand the code and the thought process around it.
+The notebook reads data from directory `survey_results` containing csv files named in format `survey_{year}.csv`
+The data can be found [here](https://insights.stackoverflow.com/survey).
 
 ## Results<a name="results"></a>
 
